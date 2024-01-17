@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+.Titulo {
+    color: aliceblue;
+    text-align: center;
+}
+
+.html-js {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hardware-python {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.video-html {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.video-java {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.video-hardware {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.video-python {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.curso {
+    display: flex;
+    justify-content: center;
+}
+
+.voltar {
+    display: flex;
+    justify-content: center;
+}
+
+
